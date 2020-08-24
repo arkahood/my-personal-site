@@ -1,0 +1,182 @@
+.nav-link{
+  margin: 5px 5px;
+}
+.navbar-brand{
+  font-size: 1.5rem;
+  font-weight: bolder;
+  padding-left: 7%;
+}
+.navbar-nav{
+  padding-right: 13%;
+}
+.hrcustom{
+  padding: 0px 0px;
+  margin: 0px 0px;
+}
+body{
+  text-align: center;
+  color: grey;
+}
+h1{
+  font-size: 3rem;
+  font-weight: bold;
+  font-family: 'DM Serif Text', serif;
+}
+p,h2{
+  font-size: 1.8rem;
+  font-family: 'Cardo', serif;
+}
+.txt{
+  padding-top: 10%;
+  text-align: left;
+  padding-right: 5%;
+  padding-left: 1%;
+}
+img{
+  padding: 10% 10%;
+
+}
+.personal-pic{
+  height: 550px;
+}
+.hirepic{
+  padding: 0% 5%;
+}
+.first{
+
+  padding: 3% 8%;
+}
+.skill{
+  text-align: left;
+  padding-top: 15%;
+  padding-left: 5%;
+  font-size: 1.5rem;
+  line-height: 2;
+}
+.white{
+  background: linear-gradient(65deg, white 65%, #aa96da 35%);
+}
+.navbar{
+  background-color: #ffffd2;
+}
+.hire{
+  padding: 3% 12%;
+  /*background-color: #ffffd2; */
+
+}
+.hire1{
+  margin-top: 5%;
+}
+.hirep{
+  text-align:justify;
+  font-size: 1.25rem;
+
+}
+/* .list-group{
+  padding-top: 15%;
+  padding-left: 5%;
+  font-size: 1.5rem;
+} */
+h3{
+  font-size: 1.5rem;
+}
+.ach{
+
+  padding: 3% 8%;
+  font-size: .5rem;
+}
+.white1{
+  background: linear-gradient(245deg, white 85%, #aa96da 15%);
+}
+footer{
+  padding-top: 2%;
+  text-align: center;
+
+}
+.ok{
+  padding-left: 5%;
+  padding-right: 5%;
+}
+.copy{
+  font-size: 1rem;
+  padding-top: 3%;
+
+}
+/*project*/
+.pro{
+  text-align: center;
+  padding-top: 5%;
+
+}
+.card-text{
+  text-align: justify;
+}
+.procon{
+  background: linear-gradient(65deg, white 65%, #aa96da 35%);
+}
+
+
+/*media control*/
+@media (max-width:1024px) {
+  .hirep{
+    font-size: 2rem;
+    font-weight: bold;
+  }
+  .hire{
+    padding-top: 3%;
+    padding-bottom: 3%;
+    padding-left: 2%;
+    padding-right: 2%;
+  }
+  .txt{
+    text-align: center;
+  }
+  img{
+    width: 300px;
+
+  }
+  .personal-pic{
+    height: 400px;
+  }
+  h1{
+    font-size: 3rem;
+  }
+  p{
+    font-size: 1.1rem;
+    font-weight: bolder;
+  }
+  .hirep{
+    font-size: 1rem;
+  }
+  h3{
+    font-size: 1rem;
+  }
+  .skill{
+    text-align: left;
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-top: 5%;
+  }
+  .pro{
+    padding: 2% 10%;
+  }
+}
+
+/*dark mode*/
+/*hre*/
+.dark-mode{
+  background-color: black;
+
+}
+
+.dark-mode1{
+  background: linear-gradient(65deg, black 65%, #aa96da 35%);
+}
+.dark-mode2{
+  background: linear-gradient(215deg, black 65%, #aa96da 35%);
+
+}
+.dark-mode4{
+  color: white;
+  background-color: black;
+}
